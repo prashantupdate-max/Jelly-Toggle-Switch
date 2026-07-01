@@ -27,4 +27,4 @@ A modern Jelly Toggle Switch built using only HTML and CSS with a clean UI and s
 - 🌐 HTML5
 - 🎨 CSS3
 
-⭐ If you like this project, don't forget to **Star** the repository!
+### ⭐ If you like this project, don't forget to **Star** the repository!
